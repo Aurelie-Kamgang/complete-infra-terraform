@@ -19,6 +19,7 @@ This short tutorial explains step by step how to implement the  project
 - Have **terraform**, on your workstation to provision the lab locally.
 - To launch the creation of our app go to the app directory and type the command:
 		- `terraform init`
+		
 	**![](https://lh5.googleusercontent.com/E0uJFijQjoB8EiDbAG9N5C_vlWtFHdjIvEJevPYvW6L4xqYlLZdyQBvYeBhzI1G296K0c_ktZMwmNWzCGarjCsuQu7DIEAByC9PSTE69s_hARuA2zLfn3eR3-3uBBFjuz9Sc_E5b_JBuqCoWCW33KR1IU-5Amjljhn5XFkg4q-vyQ99SBWJoeGqYeW9B1g)**
 	
 		- `terraform plan
