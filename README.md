@@ -1,6 +1,5 @@
 # Deploy a complete infrastructure with terraform
 
-  # Mini-project: Deploy a complete infra
 
   * Write a module to create an ec2 instance using the latest version of ubuntu bionic (which will attach the ebs and public ip)
   (which will attach the ebs and the public ip) whose size and tag will be variabilized
