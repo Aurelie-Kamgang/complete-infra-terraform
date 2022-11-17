@@ -20,9 +20,13 @@ This short tutorial explains step by step how to implement the  project
 - To launch the creation of our app go to the app directory and type the command:
 		- `terraform init`
 	**![](https://lh5.googleusercontent.com/E0uJFijQjoB8EiDbAG9N5C_vlWtFHdjIvEJevPYvW6L4xqYlLZdyQBvYeBhzI1G296K0c_ktZMwmNWzCGarjCsuQu7DIEAByC9PSTE69s_hARuA2zLfn3eR3-3uBBFjuz9Sc_E5b_JBuqCoWCW33KR1IU-5Amjljhn5XFkg4q-vyQ99SBWJoeGqYeW9B1g)**
+	
 		- `terraform plan
+		
 	**![](https://lh5.googleusercontent.com/PxpssQyGOxjzDyHlAnsWs2Y-WkN54hIfp89zsnbzthvz4i4rNk8BfSeWODmIiDbasH1xcshPvl0XX5FI-f6zAxo7DgodjoMKi_OEPueuUg-ENgAeWaTmrSx9jiwoTWUAWrDjC4wNwzAR0YZkRs710u7I8wF3v3IcDxGKeN0YfivwyeqGKea45-G2wwqkCQ)**
+	
 		- `terraform apply`
+		
 **![](https://lh4.googleusercontent.com/DdgGp__iNBtN3yqX490XXMxw_hxRqPVuT-7n1tnTua8SwNaDBXH9ygKftqJDCAAfOGV7RBeqq6MeJEE762eVsHfOlYxc-Sn8Bzdk7OkaaNRFIZ0XInkGGDVKGyiigQ6bDcM_QDgYf6ISPqrV5YxDFj9OLcOZTcucpHB1KVpfrTybtrDxea_cxDhA-Ox_4Q)**
 
 **![](https://lh3.googleusercontent.com/PWEre8SX0OuG6ondklyQbyT_QtiCT9_MgapQfRpMw0Xnb23zMl4JCJ0LUZkoiQVBp9In2Bbu6a3j5G-ECdUofr6PXBW-fKPSw6yE_A6RLn2lHdFy_w4mWy_Wuldwp3qZB2RBA61Z3_58XCRTxwV71dXOEXwWLHW4doQOupHCzl12BUB02nc6ih_BbjWgxw)**
